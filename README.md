@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/)
 
 ![devKauaHenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=devKauaHenrique&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devKauaHenrique)](https://github.com/devKauaHenrique/github-readme-stats)
 
 ## Tecnologias que eu uso!
 
