@@ -21,6 +21,8 @@
 </div>
 <br>
 Descobrindo cada vez mais a área de tecnologia e se encantando pelo Front-end!
+<br>
+Disponível para Freelancer
 
 ## Entre em contato:
 - E-mail - kauasousa2810@gmail.com<br>
