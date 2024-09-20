@@ -1,16 +1,30 @@
 ### Olá! Eu sou o Kauã Henrique 👋
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511953736849&text=Ol%C3%A1%20Kau%C3%A3%20Henrique!)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua_hsg/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/)
+<div align="left">
+  <a href="www.linkedin.com/in/kauã-henrique-78259a259" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=5511953736849&text=Ol%C3%A1%20gostaria%20de%20conversar%20com%20o%20%20Kau%C3%A3!" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/kaua_hsg/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-![devKauaHenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=devKauaHenrique&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devKauaHenrique)](https://github.com/devKauaHenrique/github-readme-stats)
+###
 
-## Tecnologias que eu uso!
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devKauaHenrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devKauaHenrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+## Tecnologias que utilizo!
 
 <div style="display: inline_block">
-<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -34,8 +48,11 @@
 </div>
 
 ###
-<br>
-Descobrindo cada vez mais a área de tecnologia e se encantando pelo Front-end!
+Sou um Desenvolvedor Web Front-End! Desde Julho de 2023 na área, decidi me especializar no Front-End com foco em HTML, CSS, Tailwind CSS, Javascript e React JS, tecnologias que venho estudando dia após dia e com mais experiência. Mas também possuo um básico conhecimento Back-End, em C#, Node JS e MySQL
+
+Estou finalizando o último semestre do meu curso técnico "Informática para Internet" na ETEC, onde conheci essas linguagens e mais alguns outros conhecimentos técnicos.
+
+Me considero um Dev dedicado e focado no aprendizado, sempre buscando por novos conhecimentos e novas tecnologias para aprimorar ainda mais as minhas habilidades. Estou pronto para superar qualquer desafio!
 <br>
 Disponível para Freelancer
 
