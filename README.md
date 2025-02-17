@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Kauã Henrique 👋
+### 🚀 Desenvolvedor Web | Apaixonado por Tecnologia e Design
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kau%C3%A3-henrique-78259a259/" target="_blank">
@@ -48,9 +49,10 @@
 </div>
 
 ###
-Sou um Desenvolvedor Web Front-End! Desde Julho de 2023 na área, decidi me especializar no Front-End com foco em HTML, CSS, Tailwind CSS, Javascript e React JS, tecnologias que venho estudando dia após dia e com mais experiência. Mas também possuo um básico conhecimento Back-End, em C#, Node JS e MySQL
+Sou um Desenvolvedor Web com foco em HTML, CSS, Tailwind CSS, Javascript e React JS, tecnologias que venho estudando dia após dia e com mais experiência. Mas também possuo um básico conhecimento Back-End, em C#, Node JS e MySQL
 
-Estou finalizando o último semestre do meu curso técnico "Informática para Internet" na ETEC, onde conheci essas linguagens e mais alguns outros conhecimentos técnicos.
+Sou formado no curso técnico "Informática para Internet" na ETEC de Poá entre 2023 e 2024, onde conheci essas linguagens e mais alguns outros conhecimentos técnicos.
+Agora estou iniciando a minha graduação em Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes!
 
 Me considero um Dev dedicado e focado no aprendizado, sempre buscando por novos conhecimentos e novas tecnologias para aprimorar ainda mais as minhas habilidades. Estou pronto para superar qualquer desafio!
 <br>
