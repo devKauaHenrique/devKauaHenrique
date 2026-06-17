@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Olá, eu sou o Kauã Henrique 👋
 
@@ -10,8 +10,6 @@
 [![Portfólio](https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-kaua.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua.dev)
 
-</div>
-
 ---
 
 ## 🙋‍♂️ Sobre mim
@@ -19,7 +17,7 @@
 - 🎓 Técnico em **Informática para Internet** pela ETEC de Poá (2023–2024)
 - 📚 Graduando em **Análise e Desenvolvimento de Sistemas** na UMC
 - 💼 Agente Administrativo em SAE-CTA — com olhar técnico para processos e dados
-- 🎯 Foco atual: evoluir do Front-End para o desenvolvimento **Full Stack** com Java Spring Boot
+- 🎯 Foco atual: evoluir do Front-End para o desenvolvimento **Full Stack** com Java
 - 🛠️ Trabalhando em projetos reais: cardápios digitais, landing pages e sistemas de gestão
 - 🌐 Disponível para **freelancer**
 
