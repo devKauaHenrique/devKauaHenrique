@@ -62,12 +62,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devKauaHenrique&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" />
-
----
-
 ## 📫 Entre em contato
 
 Quer conversar sobre um projeto, freela ou oportunidade?
